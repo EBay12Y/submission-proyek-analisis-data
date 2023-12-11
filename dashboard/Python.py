@@ -7,7 +7,7 @@ import streamlit as st
 sns.set(style='dark')
 
 # Menyiapkan data day_df
-day_df = pd.read_csv("day.csv")
+day_df = pd.read_csv("https://raw.githubusercontent.com/EBay12Y/submission-proyek-analisis-data/main/data/day.csv")
 day_df.head()
 
 # Menghapus kolom yang tidak diperlukan
