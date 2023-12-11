@@ -8,6 +8,10 @@ conda activate main-ds
 pip install numpy pandas scipy matplotlib seaborn jupyter streamlit babel
 ```
 
+## Tautan Dashboard
+
+https://ekabayu-submission.streamlit.app/
+
 ### `Colab_notebook.ipynb`
 
 1. Download this project.
